@@ -69,6 +69,11 @@
 - It is combining elements of both design and prototyping-in-stages, in an effort to combine advantages of top-down and bottom-up concepts. This model of development combines the features of the prototyping model and the waterfall model.
 
 ### Advanatges
+- Estimates (i.e. budget, schedule, etc.) become more realistic as work progressed because important issues are discovered earlier.
+
+- Early involvement of developers.
+
+- Manages risks and develops the system into phases.
 
 ### Disadvantages
 
