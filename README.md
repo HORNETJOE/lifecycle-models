@@ -1,6 +1,6 @@
 # lifecycle-models
 - Waterfall
-The waterfall model is a relatively linear sequential design approach for certain areas of engineering design
+    The waterfall model is a relatively linear sequential design approach for certain areas of engineering design
 - Evolutionary
 - Prototyping
 - Spiral
