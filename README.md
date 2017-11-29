@@ -1,5 +1,5 @@
 # lifecycle-models
-# Waterfall
+### Waterfall
     - The waterfall model is a relatively linear sequential design approach for certain areas of engineering design.
      Advantages
     - Simple and easy to understand and use
@@ -35,13 +35,13 @@
     - Adjusting scope during the life cycle can end a project.
 
     - Integration is done as a "big-bang. at the very end, which doesn't allow identifying any technological or business bottleneck or      challenges early.
-# Evolutionary
-# Prototyping
+### Evolutionary
+### Prototyping
     - It refers to the activity of creating prototypes of software applications, for example, incomplete versions of the software program being developed.
     ## Advantages
     - Reduced time and costs, but this can be a disadvantage if the developer loses time in developing the prototypes.
     - Improved and increased user involvement.
-# Spiral
-# Rapid Application Development (RAD)
-# Traditional X Agile
-# Formal / Light Formal
+### Spiral
+### Rapid Application Development (RAD)
+### Traditional X Agile
+### Formal / Light Formal
