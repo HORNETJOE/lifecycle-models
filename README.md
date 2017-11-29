@@ -40,6 +40,12 @@
 
     - Integration is done as a "big-bang. at the very end, which doesn't allow identifying any technological or business bottleneck or      challenges early.
 ### Evolutionary
+- 
+
+- Advanatges
+
+-Disadvantages
+
 ### Prototyping
     - It refers to the activity of creating prototypes of software applications, for example, incomplete versions of the software program being developed.
     
@@ -60,6 +66,30 @@
     - Expense of implementing prototyping
     
 ### Spiral
+- It is combining elements of both design and prototyping-in-stages, in an effort to combine advantages of top-down and bottom-up concepts. This model of development combines the features of the prototyping model and the waterfall model.
+
+- Advanatges
+
+-Disadvantages
+
 ### Rapid Application Development (RAD)
+-
+
+- Advanatges
+
+-Disadvantages
+
 ### Traditional X Agile
+- 
+
+- Advanatges
+
+-Disadvantages
+
 ### Formal / Light Formal
+- 
+
+- Advanatges
+
+-Disadvantages
+
