@@ -1,7 +1,7 @@
 # lifecycle-models
 - Waterfall
     - The waterfall model is a relatively linear sequential design approach for certain areas of engineering design
-    # Advantages
+    ## Advantages
     - Simple and easy to understand and use
 
     - Easy to manage due to the rigidity of the model. Each phase has specific deliverables and a review process.
