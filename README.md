@@ -17,6 +17,24 @@
     - Easy to arrange tasks.
 
     - Process and results are well documented.
+    ## Disadvantage
+    - No working software is produced until late during the life cycle.
+
+    - High amounts of risk and uncertainty.
+
+    - Not a good model for complex and object-oriented projects.
+
+    - Poor model for long and ongoing projects.
+
+    - Not suitable for the projects where requirements are at a moderate to high risk of changing. So, risk and uncertainty is high with        this process model.
+
+    - It is difficult to measure progress within stages.
+
+    - Cannot accommodate changing requirements.
+
+    - Adjusting scope during the life cycle can end a project.
+
+    - Integration is done as a "big-bang. at the very end, which doesn't allow identifying any technological or business bottleneck or      challenges early.
 - Evolutionary
 - Prototyping
     - It refers to the activity of creating prototypes of software applications, for example, incomplete versions of the software program being developed.
