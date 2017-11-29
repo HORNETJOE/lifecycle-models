@@ -47,6 +47,14 @@
     
     - Reduced time and costs, but this can be a disadvantage if the developer loses time in developing the prototypes.
     - Improved and increased user involvement.
+    
+    Disadvantages
+    
+    - Insufficient analysis· User confusion of prototype and finished system.
+    - Developer misunderstanding of user objectives.
+    - Excessive development time of the prototype.
+    - Expense of implementing prototyping
+    
 ### Spiral
 ### Rapid Application Development (RAD)
 ### Traditional X Agile
