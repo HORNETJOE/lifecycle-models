@@ -43,7 +43,7 @@
 ### Prototyping
     - It refers to the activity of creating prototypes of software applications, for example, incomplete versions of the software program being developed.
     
-    ## Advantages
+     Advantages
     
     - Reduced time and costs, but this can be a disadvantage if the developer loses time in developing the prototypes.
     - Improved and increased user involvement.
