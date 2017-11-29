@@ -20,7 +20,7 @@
 
    - Process and results are well documented.
     
-   Disadvantage
+  ### Disadvantage
      
    - No working software is produced until late during the life cycle.
 
@@ -42,20 +42,20 @@
 ### Evolutionary
 - 
 
-- Advanatges
+### Advanatges
 
--Disadvantages
+### Disadvantages
 
 ### Prototyping
    - It refers to the activity of creating prototypes of software applications, for example, incomplete versions of the software program being developed.
     
-     Advantages
+ ### Advantages
     
    - Reduced time and costs, but this can be a disadvantage if the developer loses time in developing the prototypes.
     
    - Improved and increased user involvement.
     
-   Disadvantages
+ ### Disadvantages
     
    - Insufficient analysis· User confusion of prototype and finished system.
     
@@ -68,28 +68,28 @@
 ### Spiral
 - It is combining elements of both design and prototyping-in-stages, in an effort to combine advantages of top-down and bottom-up concepts. This model of development combines the features of the prototyping model and the waterfall model.
 
-- Advanatges
+### Advanatges
 
--Disadvantages
+### Disadvantages
 
 ### Rapid Application Development (RAD)
 -
 
-- Advanatges
+### Advanatges
 
--Disadvantages
+### Disadvantages
 
 ### Traditional X Agile
 - 
 
-- Advanatges
+### Advanatges
 
--Disadvantages
+### Disadvantages
 
 ### Formal / Light Formal
 - 
 
-- Advanatges
+### Advanatges
 
--Disadvantages
+### Disadvantages
 
