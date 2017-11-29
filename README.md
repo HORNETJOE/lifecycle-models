@@ -20,7 +20,7 @@
 
    - Process and results are well documented.
     
-    Disadvantage
+   Disadvantage
      
    - No working software is produced until late during the life cycle.
 
