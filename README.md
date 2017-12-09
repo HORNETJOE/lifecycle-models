@@ -2,7 +2,7 @@
 ### Waterfall
    The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete.
     
-     ### Advantages
+   ### Advantages
      
    - Simple and easy to understand and use
 
