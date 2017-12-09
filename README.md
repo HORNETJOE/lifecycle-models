@@ -40,7 +40,7 @@
 
    - Integration is done as a "big-bang. at the very end, which doesn't allow identifying any technological or business bottleneck or      challenges early.
 ### Evolutionary
-- 
+The Evolutionary Model or approach is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal
 
 ### Advanatges
 
