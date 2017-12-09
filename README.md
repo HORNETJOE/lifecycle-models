@@ -43,8 +43,10 @@
 The Evolutionary Model or approach is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal
 
 ### Advanatges
+- This is the only method appropriate for situations where a detailed system specification is unavailable. Effective in rapidly producing small systems, software with short life spans, and developing sub-components of larger systems.
 
 ### Disadvantages
+- It is difficult to measure progress and produce documentation reflecting every version of the system as it evolves. This paradigm usually results in badly structured programs due to continual code modification. Production of good quality software using this method requires highly skilled and motivated programmers.
 
 ### Prototyping
    It refers to the activity of creating prototypes of software applications, for example, incomplete versions of the software program being developed.
@@ -66,7 +68,7 @@ The Evolutionary Model or approach is based on the idea of rapidly developing an
    - Expense of implementing prototyping
     
 ### Spiral
-It is combining elements of both design and prototyping-in-stages, in an effort to combine advantages of top-down and bottom-up concepts. This model of development combines the features of the prototyping model and the waterfall model.
+It is combining elements of both design and prototyping-in-stages, in an effort to combine advantages of top-down and bottom-up concepts. This model of development combines the features of the prototyping model and the waterfall model. The spiral model is favored for large, expensive, and complicated projects. This model uses many of the same phases as the waterfall model, in essentially the same order, separated by planning, risk assessment, and the building of prototypes and simulations.
 
 ### Advanatges
 - Estimates (i.e. budget, schedule, etc.) become more realistic as work progressed because important issues are discovered earlier.
@@ -76,6 +78,11 @@ It is combining elements of both design and prototyping-in-stages, in an effort 
 - Manages risks and develops the system into phases.
 
 ### Disadvantages
+- High cost and time to reach the final product.
+
+- Needs special skills to evaluate the risks and assumptions.
+
+- Highly customized limiting re-usability.
 
 ### Rapid Application Development (RAD)
 -
