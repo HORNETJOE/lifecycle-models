@@ -1,6 +1,6 @@
 # lifecycle-models
 ### Waterfall
-   - The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete.
+   The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete.
     
      ### Advantages
      
@@ -47,7 +47,7 @@
 ### Disadvantages
 
 ### Prototyping
-   - It refers to the activity of creating prototypes of software applications, for example, incomplete versions of the software program being developed.
+   It refers to the activity of creating prototypes of software applications, for example, incomplete versions of the software program being developed.
     
  ### Advantages
     
@@ -66,7 +66,7 @@
    - Expense of implementing prototyping
     
 ### Spiral
-- It is combining elements of both design and prototyping-in-stages, in an effort to combine advantages of top-down and bottom-up concepts. This model of development combines the features of the prototyping model and the waterfall model.
+It is combining elements of both design and prototyping-in-stages, in an effort to combine advantages of top-down and bottom-up concepts. This model of development combines the features of the prototyping model and the waterfall model.
 
 ### Advanatges
 - Estimates (i.e. budget, schedule, etc.) become more realistic as work progressed because important issues are discovered earlier.
