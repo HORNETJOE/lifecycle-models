@@ -87,14 +87,14 @@ The Evolutionary Model or approach is based on the idea of rapidly developing an
 It is combining elements of both design and prototyping-in-stages, in an effort to combine advantages of top-down and bottom-up concepts. This model of development combines the features of the prototyping model and the waterfall model. The spiral model is favoured for large, expensive, and complicated projects. This model uses many of the same phases as the waterfall model, in essentially the same order, separated by planning, risk assessment, and the building of prototypes and simulations.
 
 #### 4.1 how risk is managed in the Spiral lifecycle model
-The spiral life-cycle is a risk driven model which means that this lifecycle model will be more successful and accurate the higher the risk analyses phase. The risk analyses phase is when the risks are weighed up with the project and see if the outcome is worth the risks. The spiral life-cycle is great at monitoring risks within a project and keeping up to date with them. This can create new opportunities to remove risks and keep note of risks in the future. the main importance of the Spiral Lifecycle is to reduce the amount and the effect these risks have on development and the application.
+The spiral life-cycle is a risk driven model which means that this lifecycle model will be more successful and accurate the higher the risk analyses phase. The risk analyses phase is when the risks are weighed up and prioritized within the project to see if the outcome is worth the risks or reduction of the risk is possable. The spiral life-cycle is great at monitoring risks within a project and keeping up to date with them. This can create new opportunities to remove risks and keep note of risks in the future. the main importance of the Spiral Lifecycle is to reduce the amount and the effect these risks have on development and the application.
 
 ### 4.2 Advantages
 - Estimates (i.e. budget, schedule, etc.) become more realistic as work progressed because important issues are discovered earlier.
 
 - Early involvement of developers.
 
-- Manages risks and develops the system into phases.
+- Manages and attempts to reduce risks during each development phase.
 
 ### 4.3 Disadvantages
 - High cost and time to reach the final product.
