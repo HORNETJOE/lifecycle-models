@@ -108,7 +108,7 @@ The spiral life-cycle is a risk driven model which means that this lifecycle mod
 
 - Lack of scalability. RAD typically focuses on small to medium-sized project teams. The other issues cited above (less design and control) present special challenges when using a RAD approach for very large scale systems.
 
-### Traditional X Agile
+### Traditional and Agile
 - 
 
 ### Advanatges
