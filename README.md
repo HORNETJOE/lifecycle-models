@@ -121,3 +121,25 @@ The spiral life-cycle is a risk driven model which means that this lifecycle mod
 The V model is an extension of the waterfall model. However, the model process take place in a V shape during diagrams. The method of V model is to test each part of a development stage to ensure minimal errors and faults. This method takes place for every single phase of development. 
 
 The V shape of the model is a presentation of when developing an application, it is better to work out words when developing new functions rather than working towards a final goal. This is better for development because the diagram suggests that if testing has failed for one of the function higher up the V model then the other function need to be tested to make sure that no errors have append during the development of further functions.
+
+### 6.1 Advantages
+
+-	This is a highly-disciplined model and Phases are completed one at a time.
+
+-	Works well for smaller projects where requirements are very well understood.
+
+-	Simple and easy to understand and use.
+
+-	Easy to manage due to the rigidity of the model. Each phase has specific deliverables and a review process.
+
+### 6.2 Disadvantages
+
+-	High risk and uncertainty.
+
+-	Not a good model for complex and object-oriented projects.
+
+-	Poor model for long and ongoing projects.
+
+-	Not suitable for the projects where requirements are at a moderate to high risk of changing.
+
+-	Once an application is in the testing stage, it is difficult to go back and change a functionality.
