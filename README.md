@@ -118,7 +118,7 @@ The spiral life-cycle is a risk driven model which means that this lifecycle mod
 - Lack of scalability. RAD typically focuses on small to medium-sized project teams. The other issues cited above (less design and control) present special challenges when using a RAD approach for very large scale systems.
 
 ### 6.0 V model
-The V model is an extension of the waterfall model. However, the model process take place in a V shape during diagrams. The method of V model is to test each part of a development stage to ensure minimal errors and faults. This method takes place for every single phase of development. 
+The model process take place in a V shape during diagrams. The method of V model is to test each part of a development stage to ensure minimal errors and faults. This method takes place for every single phase of development. 
 
 The V shape of the model is a presentation of when developing an application, it is better to work out words when developing new functions rather than working towards a final goal. This is better for development because the diagram suggests that if testing has failed for one of the function higher up the V model then the other function need to be tested to make sure that no errors have append during the development of further functions.
 
