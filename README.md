@@ -5,6 +5,7 @@
 #### 3.0 Prototyping
 #### 4.0 Spiral
 #### 5.0 Rapid Application Development (RAD)
+#### 6.0 V model
 
 ### 1.0 Waterfall
    The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete.
@@ -50,7 +51,7 @@
 ### 2.0 Evolutionary
 The Evolutionary Model or approach is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal
 
-### 2.1 Advanatges
+### 2.1 Advantages
 - This is the only method appropriate for situations where a detailed system specification is unavailable. Effective in rapidly producing small systems, software with short life spans, and developing sub-components of larger systems.
 
 ### 2.2 Disadvantages
@@ -76,12 +77,12 @@ The Evolutionary Model or approach is based on the idea of rapidly developing an
    - Expense of implementing prototyping
     
 ### 4.0 Spiral
-It is combining elements of both design and prototyping-in-stages, in an effort to combine advantages of top-down and bottom-up concepts. This model of development combines the features of the prototyping model and the waterfall model. The spiral model is favored for large, expensive, and complicated projects. This model uses many of the same phases as the waterfall model, in essentially the same order, separated by planning, risk assessment, and the building of prototypes and simulations.
+It is combining elements of both design and prototyping-in-stages, in an effort to combine advantages of top-down and bottom-up concepts. This model of development combines the features of the prototyping model and the waterfall model. The spiral model is favoured for large, expensive, and complicated projects. This model uses many of the same phases as the waterfall model, in essentially the same order, separated by planning, risk assessment, and the building of prototypes and simulations.
 
 #### 4.1 how risk is managed in the Spiral lifecycle model
 The spiral life-cycle is a risk driven model which means that this lifecycle model will be more successful and accurate the higher the risk analyses phase. The risk analyses phase is when the risks are weighed up with the project and see if the outcome is worth the risks. The spiral life-cycle is great at monitoring risks within a project and keeping up to date with them. This can create new opportunities to remove risks and keep note of risks in the future.
 
-### 4.2 Advanatges
+### 4.2 Advantages
 - Estimates (i.e. budget, schedule, etc.) become more realistic as work progressed because important issues are discovered earlier.
 
 - Early involvement of developers.
@@ -98,7 +99,7 @@ The spiral life-cycle is a risk driven model which means that this lifecycle mod
 ### 5.0 Rapid Application Development (RAD)
 - Rapid-application development (RAD) is both a general term, used to refer to adaptive software development approaches, as well as the name for James Martin's approach to rapid development. In general, RAD approaches to software development put less emphasis on planning and more emphasis on an adaptive process. Prototypes are often used in addition to or sometimes even in place of design specifications.
 
-### 5.1 Advanatges
+### 5.1 Advantages
 - Better quality. By having users interact with evolving prototypes the business functionality from a RAD project can often be much higher than that achieved via a waterfall model. The software can be more usable and has a better chance to focus on business problems that are critical to end users rather than technical problems of interest to developers.
 
 - Risk control. Although much of the literature on RAD focuses on speed and user involvement a critical feature of RAD done correctly is risk mitigation. It's worth remembering that Boehm initially characterized the spiral model as a risk based approach. A RAD approach can focus in early on the key risk factors and adjust to them based on empirical evidence collected in the early part of the process. E.g., the complexity of prototyping some of the most complex parts of the system.
@@ -115,3 +116,8 @@ The spiral life-cycle is a risk driven model which means that this lifecycle mod
 - Poor design. The focus on prototypes can be taken too far in some cases resulting in a "hack and test" methodology where developers are constantly making minor changes to individual components and ignoring system architecture issues that could result in a better overall design. This can especially be an issue for methodologies such as Martin's that focus so heavily on the user interface of the system.
 
 - Lack of scalability. RAD typically focuses on small to medium-sized project teams. The other issues cited above (less design and control) present special challenges when using a RAD approach for very large scale systems.
+
+### 6.0 V model
+The V model is an extension of the waterfall model. However, the model process take place in a V shape during diagrams. The method of V model is to test each part of a development stage to ensure minimal errors and faults. This method takes place for every single phase of development. 
+
+The V shape of the model is a presentation of when developing an application, it is better to work out words when developing new functions rather than working towards a final goal. This is better for development because the diagram suggests that if testing has failed for one of the function higher up the V model then the other function need to be tested to make sure that no errors have append during the development of further functions.
