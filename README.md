@@ -122,6 +122,8 @@ The model process take place in a V shape during diagrams. The method of V model
 
 The V shape of the model is a presentation of when developing an application, it is better to work out words when developing new functions rather than working towards a final goal. This is better for development because the diagram suggests that if testing has failed for one of the function higher up the V model then the other function need to be tested to make sure that no errors have append during the development of further functions.
 
+![Image](https://github.com/HORNETJOE/lifecycle-models/blob/master/v-model.png)
+
 ### 6.1 Advantages
 
 -	This is a highly-disciplined model and Phases are completed one at a time.
