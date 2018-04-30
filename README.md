@@ -1,10 +1,10 @@
 # lifecycle-models
-# Table of content
-## waterfall
-## Evolutionary
-## Prototyping
-## Spiral
-## Rapid Application Development (RAD)
+### Table of content
+#### waterfall
+#### Evolutionary
+#### Prototyping
+#### Spiral
+#### Rapid Application Development (RAD)
 
 ### Waterfall
    The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete.
