@@ -1,4 +1,11 @@
 # lifecycle-models
+# Table of content
+## waterfall
+## Evolutionary
+## Prototyping
+## Spiral
+## Rapid Application Development (RAD)
+
 ### Waterfall
    The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete.
     
@@ -39,6 +46,7 @@
    - Adjusting scope during the life cycle can end a project.
 
    - Integration is done as a "big-bang. at the very end, which doesn't allow identifying any technological or business bottleneck or      challenges early.
+   
 ### Evolutionary
 The Evolutionary Model or approach is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal
 
@@ -107,18 +115,3 @@ The spiral life-cycle is a risk driven model which means that this lifecycle mod
 - Poor design. The focus on prototypes can be taken too far in some cases resulting in a "hack and test" methodology where developers are constantly making minor changes to individual components and ignoring system architecture issues that could result in a better overall design. This can especially be an issue for methodologies such as Martin's that focus so heavily on the user interface of the system.
 
 - Lack of scalability. RAD typically focuses on small to medium-sized project teams. The other issues cited above (less design and control) present special challenges when using a RAD approach for very large scale systems.
-
-### Traditional and Agile
-- 
-
-### Advanatges
-
-### Disadvantages
-
-### Formal / Light Formal
-- 
-
-### Advanatges
-
-### Disadvantages
-
