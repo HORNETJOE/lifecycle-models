@@ -8,7 +8,7 @@
 #### 6.0 V model (Sequential)
 
 ### 1.0 Waterfall
-   The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete.
+   The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete. The water fall model can be useful in a work environment because it can simulate the flow of work being completed and floating towards the goal of completing an objective or application.
     
    ### 1.1 Advantages
      
@@ -49,16 +49,24 @@
    - Integration is done as a "big-bang. at the very end, which doesn't allow identifying any technological or business bottleneck or      challenges early.
    
 ### 2.0 Evolutionary
-The Evolutionary Model or approach is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal
+The Evolutionary Model or approach is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal. This type of model used in a workplace can help during development because it can show the growth of work show how functions in an application are changing and improving with each version.
 
 ### 2.1 Advantages
-- This is the only method appropriate for situations where a detailed system specification is unavailable. Effective in rapidly producing small systems, software with short life spans, and developing sub-components of larger systems.
+- Effective in rapidly producing small systems.
+
+- Effective in software with short life spans.
+
+- Effective in developing sub-components of larger systems.
 
 ### 2.2 Disadvantages
-- It is difficult to measure progress and produce documentation reflecting every version of the system as it evolves. This paradigm usually results in badly structured programs due to continual code modification. Production of good quality software using this method requires highly skilled and motivated programmers.
+- It is difficult to measure progress and produce documentation reflecting every version of the system as it evolves.
+
+-This paradigm usually results in badly structured programs due to continual code modification.
+
+-Production of good quality software using this method requires highly skilled and motivated programmers.
 
 ### 3.0 Prototyping
-   It refers to the activity of creating prototypes of software applications, for example, incomplete versions of the software program being developed.
+   It refers to the activity of creating prototypes of software applications, for example, incomplete versions of the software program being developed. This can work well in a work environment because it can show how an application can grow and show which changes are being made between different version of the application. This allows the client or developers to jump back to earlier versions to make change without losing too much progress.
     
  ### 3.1 Advantages
     
