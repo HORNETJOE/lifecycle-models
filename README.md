@@ -1,6 +1,6 @@
 # lifecycle-models
 ### Table of content
-#### 1.0 waterfall (Sequential)
+#### 1.0 Waterfall (Sequential)
 #### 2.0 Evolutionary (Iterative)
 #### 3.0 Prototyping (Iterative)
 #### 4.0 Spiral (Iterative)
